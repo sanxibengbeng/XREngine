@@ -155,7 +155,7 @@ packages/server/upload/
 /packages/server-core/src/index.ts
 
 /packages/client/public/projects/*
-/packages/projects/projects/*
+#/packages/projects/projects/*
 
 # ignore all files other than template in ripple config folder
 /packages/ops/rippled/config/
